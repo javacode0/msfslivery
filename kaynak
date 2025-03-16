@@ -1,0 +1,26 @@
+[
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "abcdef1234567890",
+    "size": 1234,
+    "download_url": "https://raw.githubusercontent.com/username/my-livery-repo/main/README.md",
+    "type": "file"
+  },
+  {
+    "name": "aircraft.zip",
+    "path": "livery/aircraft.zip",
+    "sha": "abcdef1234567890",
+    "size": 5678,
+    "download_url": "https://github.com/username/my-livery-repo/raw/main/livery/aircraft.zip",
+    "type": "file"
+  },
+  {
+    "name": "thumbnail.png",
+    "path": "images/thumbnail.png",
+    "sha": "abcdef1234567890",
+    "size": 4321,
+    "download_url": "https://github.com/username/my-livery-repo/raw/main/images/thumbnail.png",
+    "type": "file"
+  }
+]
